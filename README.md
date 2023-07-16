@@ -57,6 +57,3 @@ Contribuições são bem-vindas! Se você quiser contribuir com melhorias, corre
 ## Licença
 
 Este projeto é licenciado sob a licença MIT - veja o arquivo LICENSE.md para detalhes.
-
-Espero que este exemplo seja útil para criar seu README.md! Lembre-se de personalizar as informações conforme necessário para o seu projeto.# smart_grid
-Predicting Smart Grid Stability with diferent algorithms
