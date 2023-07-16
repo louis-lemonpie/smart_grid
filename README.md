@@ -42,10 +42,6 @@ pip install numpy pandas seaborn scikit-learn matplotlib keras tensorflow
 
 Para executar o projeto, basta executar o arquivo principal do projeto. Certifique-se de que o dataset "smart_grid_stability_augmented.csv" esteja no mesmo diretório.
 
-```
-python main.py
-```
-
 ## Resultados
 
 Os modelos treinados são avaliados usando métricas de desempenho, como acurácia, precisão, recall e F1-score. Os resultados são armazenados em uma tabela para comparação.
